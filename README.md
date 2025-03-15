@@ -3,15 +3,15 @@ The TinDog website is a responsive landing page for a fictional dog dating servi
 
 # 🔹Features:
 
-Hero Section: A visually appealing introduction with a call-to-action.
+✔️Hero Section: A visually appealing introduction with a call-to-action.
 
-Features Section: Lists key benefits of the TinDog app.
+✔️Features Section: Lists key benefits of the TinDog app.
 
-Testimonials: Shows customer reviews (fictional) for credibility.
+✔️Testimonials: Shows customer reviews (fictional) for credibility.
 
-Pricing Plans: Displays different subscription options.
+✔️Pricing Plans: Displays different subscription options.
 
-Footer: Contains social media links and contact details.
+✔️Footer: Contains social media links and contact details.
 
 # Technical Overview (Behind the Scenes)
 
