@@ -1,2 +1,2 @@
 # TinDog
-DogCare Website
+DogCare Website Template
