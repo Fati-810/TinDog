@@ -21,4 +21,3 @@ HTML & CSS: Provides structure and styling.
 
 FontAwesome Icons & Google Fonts: Enhances visuals.
 
-JavaScript: Primarily for interactivity.
