@@ -1,7 +1,7 @@
 # TinDog
 The TinDog website is a responsive landing page for a fictional dog dating service, inspired by Tinder but designed for dogs. It showcases a clean and modern design with sections highlighting features, testimonials, and pricing plans.
 
-# 🔹Features:
+# Features:
 
 ✔️Hero Section: A visually appealing introduction with a call-to-action.
 
@@ -13,7 +13,7 @@ The TinDog website is a responsive landing page for a fictional dog dating servi
 
 ✔️Footer: Contains social media links and contact details.
 
-# Technical Overview (Behind the Scenes)
+# Technical Overview: (Behind the Scenes)
 
 Built with Bootstrap: Ensures a responsive design.
 
