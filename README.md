@@ -21,7 +21,7 @@ HTML & CSS: Provides structure and styling.
 
 FontAwesome Icons & Google Fonts: Enhances visuals.
 
-## Link: 
+## Preview: 
 https://fati-810.github.io/TinDog/
 
 ## Contact:
